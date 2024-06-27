@@ -1,5 +1,5 @@
 ERD
-![Screenshot 2024-06-27 081356](https://github.com/loisee-cloud/UAS_BDL/assets/173968345/72f4ed8b-3818-4031-8148-cb027c39ce54)
+![ERD drawio](https://github.com/loisee-cloud/UAS_BDL/assets/173968345/a6784eea-5481-40f7-9de0-6f87efac9754)
 
 Deskripsi project
 Basis data Toko ini dirancang untuk mendukung operasi bisnis sehari-hari dari sebuah toko yang menjual berbagai produk kepada pelanggan. 
